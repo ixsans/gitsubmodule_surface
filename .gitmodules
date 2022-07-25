@@ -1,0 +1,3 @@
+[submodule "gitsubmodule_submarine"]
+	path = gitsubmodule_submarine
+	url = https://github.com/ixsans/gitsubmodule_submarine.git
